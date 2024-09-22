@@ -5,7 +5,7 @@ import { getSubHeading } from "./utils/getSubHeading";
 
 
 function App() {
-  const [taskList, setTaskList] = useState([{text: "essa", id: 1}]);
+  const [taskList, setTaskList] = useState([]);
 
   const addTask = (newTask) => {
     setTaskList((prevList) => [
