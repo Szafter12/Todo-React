@@ -9,7 +9,7 @@ export function Header({ addTask, getSubHeading }) {
     <header className="flex w-full flex-col items-center gap-8">
       <div className="flex w-full items-center justify-between">
         <div className="flex flex-col gap-2">
-          <h1 className="text-center text-4xl">Do zrobienia:</h1>
+          <h1 className="text-center text-4xl">To do:</h1>
           <p className="text-3xl">
             {getSubHeading}
           </p>
