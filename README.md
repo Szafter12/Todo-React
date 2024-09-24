@@ -1,7 +1,7 @@
 
 # ToDo App react
 
-It's a simple todo app made in react. I creacte this app for practise useState and tailwindCSS. 
+It's a simple todo app made in react creacted for practise useState and tailwindCSS. 
 
 
 ## Demo
